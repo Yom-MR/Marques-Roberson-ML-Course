@@ -1,6 +1,6 @@
 # AI in Healthcare Course Portfolio
 
-Hi, I am Marques Roberson, a college student studying AI in Healthcare. I am interested in AI because it combines problem-solving, data, and real-world impact in a way that can directly improve patient care. This portfolio documents my coursework, research, and reflections as I learn how AI methods can support clinical decisions, diagnostics, and health equity.
+Hi, I'm Marques Roberson, a college student studying AI and Robotics. I'm interested in AI's capacity to create healthcare solutions because it combines problem-solving, data, and real-world impact in a way that can directly improve patient care. This portfolio documents my coursework, research, and reflections as I learn how AI methods can support clinical decisions, diagnostics, and health equity.
 
 The purpose of this portfolio is to show how my understanding has developed across technical, clinical, and ethical topics. I organized each lab and assignment into its own folder with a notebook and summary so instructors and peers can clearly follow my work.
 
