@@ -1,0 +1,11 @@
+# Evaluating a Diagnostic Study
+
+
+Assignment 4: Evaluating Results from a Diagnostic Study
+
+I reviewed a news report about **fast‑RSOM**, a non‑invasive laser scan that detects early damage in microvessels under the skin.  The test shines safe laser light and listens to vessel responses, allowing doctors to identify microvascular changes associated with heart disease risk factors such as smoking, hypertension and obesity.  The article reports that fast‑RSOM can detect meaningful changes earlier than traditional risk scores but is still undergoing validation in larger populations.
+
+In evaluating the test I explained the concepts of **sensitivity** (how well a test identifies true positives) and **specificity** (how well it avoids false positives).  No test is perfect; fast‑RSOM may sometimes miss early changes or produce false alarms.  Potential users include adults with cardiovascular risk factors who are asymptomatic.  My conclusion was that fast‑RSOM is promising because it is quick, painless and may detect vascular damage long before symptoms arise, but clinicians should use it as a supplementary tool until more accuracy data are available.
+
+
+The accompanying notebook (`assignment4.ipynb`) contains the complete text of the assignment formatted as markdown cells.  Please see the notebook for the full write‑up.
